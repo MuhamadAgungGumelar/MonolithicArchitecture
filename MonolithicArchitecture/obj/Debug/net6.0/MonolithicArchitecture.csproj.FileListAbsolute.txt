@@ -1,0 +1,14 @@
+E:\Data_Penting\Document\digitalent\MetroData\Visual Studio\MonolithicArchitecture\MonolithicArchitecture\bin\Debug\net6.0\MonolithicArchitecture.exe
+E:\Data_Penting\Document\digitalent\MetroData\Visual Studio\MonolithicArchitecture\MonolithicArchitecture\bin\Debug\net6.0\MonolithicArchitecture.deps.json
+E:\Data_Penting\Document\digitalent\MetroData\Visual Studio\MonolithicArchitecture\MonolithicArchitecture\bin\Debug\net6.0\MonolithicArchitecture.runtimeconfig.json
+E:\Data_Penting\Document\digitalent\MetroData\Visual Studio\MonolithicArchitecture\MonolithicArchitecture\bin\Debug\net6.0\MonolithicArchitecture.dll
+E:\Data_Penting\Document\digitalent\MetroData\Visual Studio\MonolithicArchitecture\MonolithicArchitecture\bin\Debug\net6.0\MonolithicArchitecture.pdb
+E:\Data_Penting\Document\digitalent\MetroData\Visual Studio\MonolithicArchitecture\MonolithicArchitecture\obj\Debug\net6.0\MonolithicArchitecture.GeneratedMSBuildEditorConfig.editorconfig
+E:\Data_Penting\Document\digitalent\MetroData\Visual Studio\MonolithicArchitecture\MonolithicArchitecture\obj\Debug\net6.0\MonolithicArchitecture.AssemblyInfoInputs.cache
+E:\Data_Penting\Document\digitalent\MetroData\Visual Studio\MonolithicArchitecture\MonolithicArchitecture\obj\Debug\net6.0\MonolithicArchitecture.AssemblyInfo.cs
+E:\Data_Penting\Document\digitalent\MetroData\Visual Studio\MonolithicArchitecture\MonolithicArchitecture\obj\Debug\net6.0\MonolithicArchitecture.csproj.CoreCompileInputs.cache
+E:\Data_Penting\Document\digitalent\MetroData\Visual Studio\MonolithicArchitecture\MonolithicArchitecture\obj\Debug\net6.0\MonolithicArchitecture.dll
+E:\Data_Penting\Document\digitalent\MetroData\Visual Studio\MonolithicArchitecture\MonolithicArchitecture\obj\Debug\net6.0\refint\MonolithicArchitecture.dll
+E:\Data_Penting\Document\digitalent\MetroData\Visual Studio\MonolithicArchitecture\MonolithicArchitecture\obj\Debug\net6.0\MonolithicArchitecture.pdb
+E:\Data_Penting\Document\digitalent\MetroData\Visual Studio\MonolithicArchitecture\MonolithicArchitecture\obj\Debug\net6.0\MonolithicArchitecture.genruntimeconfig.cache
+E:\Data_Penting\Document\digitalent\MetroData\Visual Studio\MonolithicArchitecture\MonolithicArchitecture\obj\Debug\net6.0\ref\MonolithicArchitecture.dll
